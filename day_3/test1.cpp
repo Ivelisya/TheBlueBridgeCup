@@ -16,7 +16,6 @@ int main()
     for (int i = 1; i <= n; ++i)
         for (int j = 1; j <= i; ++j)
             cin >> a[i][j];
-    ;
     for (int i = 1; i <= n; ++i)
         for (int j = 1; j <= i; ++j)
             f[i][j] = max(f[i - 1][j - 1], f[i - 1][j]) + a[i][j];
