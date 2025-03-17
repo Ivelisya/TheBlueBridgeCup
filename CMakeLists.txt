@@ -17,7 +17,7 @@
 
  # 定义可执行目标
  add_executable(smzy
-         day_1/word_analysis.cpp
+         day_6/test1.cpp
  )
  # 为目标设置包含目录
  #target_include_directories(smzy PRIVATE ${PROJECT_SOURCE_DIR}/include) 放置头文件
