@@ -71,28 +71,28 @@ include CMakeFiles/smzy.dir/flags.make
 CMakeFiles/smzy.dir/codegen:
 .PHONY : CMakeFiles/smzy.dir/codegen
 
-CMakeFiles/smzy.dir/day_8/test9.cpp.obj: CMakeFiles/smzy.dir/flags.make
-CMakeFiles/smzy.dir/day_8/test9.cpp.obj: D:/Github/TheBlueBridgeCup/day_8/test9.cpp
-CMakeFiles/smzy.dir/day_8/test9.cpp.obj: CMakeFiles/smzy.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Github\TheBlueBridgeCup\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/smzy.dir/day_8/test9.cpp.obj"
-	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/smzy.dir/day_8/test9.cpp.obj -MF CMakeFiles\smzy.dir\day_8\test9.cpp.obj.d -o CMakeFiles\smzy.dir\day_8\test9.cpp.obj -c D:\Github\TheBlueBridgeCup\day_8\test9.cpp
+CMakeFiles/smzy.dir/day_9/test.cpp.obj: CMakeFiles/smzy.dir/flags.make
+CMakeFiles/smzy.dir/day_9/test.cpp.obj: D:/Github/TheBlueBridgeCup/day_9/test.cpp
+CMakeFiles/smzy.dir/day_9/test.cpp.obj: CMakeFiles/smzy.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=D:\Github\TheBlueBridgeCup\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/smzy.dir/day_9/test.cpp.obj"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/smzy.dir/day_9/test.cpp.obj -MF CMakeFiles\smzy.dir\day_9\test.cpp.obj.d -o CMakeFiles\smzy.dir\day_9\test.cpp.obj -c D:\Github\TheBlueBridgeCup\day_9\test.cpp
 
-CMakeFiles/smzy.dir/day_8/test9.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/smzy.dir/day_8/test9.cpp.i"
-	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Github\TheBlueBridgeCup\day_8\test9.cpp > CMakeFiles\smzy.dir\day_8\test9.cpp.i
+CMakeFiles/smzy.dir/day_9/test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/smzy.dir/day_9/test.cpp.i"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\Github\TheBlueBridgeCup\day_9\test.cpp > CMakeFiles\smzy.dir\day_9\test.cpp.i
 
-CMakeFiles/smzy.dir/day_8/test9.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/smzy.dir/day_8/test9.cpp.s"
-	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Github\TheBlueBridgeCup\day_8\test9.cpp -o CMakeFiles\smzy.dir\day_8\test9.cpp.s
+CMakeFiles/smzy.dir/day_9/test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/smzy.dir/day_9/test.cpp.s"
+	D:\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\Github\TheBlueBridgeCup\day_9\test.cpp -o CMakeFiles\smzy.dir\day_9\test.cpp.s
 
 # Object files for target smzy
 smzy_OBJECTS = \
-"CMakeFiles/smzy.dir/day_8/test9.cpp.obj"
+"CMakeFiles/smzy.dir/day_9/test.cpp.obj"
 
 # External object files for target smzy
 smzy_EXTERNAL_OBJECTS =
 
-smzy.exe: CMakeFiles/smzy.dir/day_8/test9.cpp.obj
+smzy.exe: CMakeFiles/smzy.dir/day_9/test.cpp.obj
 smzy.exe: CMakeFiles/smzy.dir/build.make
 smzy.exe: CMakeFiles/smzy.dir/linkLibs.rsp
 smzy.exe: CMakeFiles/smzy.dir/objects1.rsp
