@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/smzy.dir/day_9/test.cpp.obj"
-  "CMakeFiles/smzy.dir/day_9/test.cpp.obj.d"
+  "CMakeFiles/smzy.dir/day_11/test.cpp.obj"
+  "CMakeFiles/smzy.dir/day_11/test.cpp.obj.d"
   "libsmzy.dll.a"
   "smzy.exe"
   "smzy.exe.manifest"
