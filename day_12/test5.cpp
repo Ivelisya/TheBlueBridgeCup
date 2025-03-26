@@ -3,7 +3,6 @@ using namespace std;
 
 int main()
 {
-    // 优化输入输出速度 (在某些 competitive programming 场景下有用)
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
 
