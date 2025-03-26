@@ -1,8 +1,8 @@
 [
 {
   "directory": "D:/Github/TheBlueBridgeCup/build",
-  "command": "D:\\mingw64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -pedantic -o CMakeFiles\\smzy.dir\\day_11\\test.cpp.obj -c D:\\Github\\TheBlueBridgeCup\\day_11\\test.cpp",
-  "file": "D:/Github/TheBlueBridgeCup/day_11/test.cpp",
-  "output": "CMakeFiles/smzy.dir/day_11/test.cpp.obj"
+  "command": "D:\\mingw64\\bin\\g++.exe   -g -std=c++17 -Wall -Wextra -pedantic -o CMakeFiles\\smzy.dir\\day_12\\test3.cpp.obj -c D:\\Github\\TheBlueBridgeCup\\day_12\\test3.cpp",
+  "file": "D:/Github/TheBlueBridgeCup/day_12/test3.cpp",
+  "output": "CMakeFiles/smzy.dir/day_12/test3.cpp.obj"
 }
 ]

@@ -1,16 +1,17 @@
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 long long help(int x)
 {
     long long result;
     if (x > 10)
     {
-        result = 2 * x * help(x - 6);
+        result = 2LL * x * help(x - 6) % 998244353;
     }
     else if (x <= 10)
     {
-        result = x * (x - 1);
+        result = 1LL * x * (x - 1) % 998244353;
     }
+    return result;
 }
 int main()
 {
