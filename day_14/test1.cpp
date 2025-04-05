@@ -10,7 +10,7 @@
 
 using namespace std;
 
-typedef long long ll; // 不开long long将挂掉两个测试点
+using ll = long long;
 
 const int N = 1e5 + 100;
 
