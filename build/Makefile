@@ -128,29 +128,29 @@ smzy/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\smzy.dir\build.make CMakeFiles/smzy.dir/build
 .PHONY : smzy/fast
 
-day_12/test3.obj: day_12/test3.cpp.obj
-.PHONY : day_12/test3.obj
+day_20/test3.obj: day_20/test3.cpp.obj
+.PHONY : day_20/test3.obj
 
 # target to build an object file
-day_12/test3.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\smzy.dir\build.make CMakeFiles/smzy.dir/day_12/test3.cpp.obj
-.PHONY : day_12/test3.cpp.obj
+day_20/test3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\smzy.dir\build.make CMakeFiles/smzy.dir/day_20/test3.cpp.obj
+.PHONY : day_20/test3.cpp.obj
 
-day_12/test3.i: day_12/test3.cpp.i
-.PHONY : day_12/test3.i
+day_20/test3.i: day_20/test3.cpp.i
+.PHONY : day_20/test3.i
 
 # target to preprocess a source file
-day_12/test3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\smzy.dir\build.make CMakeFiles/smzy.dir/day_12/test3.cpp.i
-.PHONY : day_12/test3.cpp.i
+day_20/test3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\smzy.dir\build.make CMakeFiles/smzy.dir/day_20/test3.cpp.i
+.PHONY : day_20/test3.cpp.i
 
-day_12/test3.s: day_12/test3.cpp.s
-.PHONY : day_12/test3.s
+day_20/test3.s: day_20/test3.cpp.s
+.PHONY : day_20/test3.s
 
 # target to generate assembly for a file
-day_12/test3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\smzy.dir\build.make CMakeFiles/smzy.dir/day_12/test3.cpp.s
-.PHONY : day_12/test3.cpp.s
+day_20/test3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\smzy.dir\build.make CMakeFiles/smzy.dir/day_20/test3.cpp.s
+.PHONY : day_20/test3.cpp.s
 
 # Help Target
 help:
@@ -161,9 +161,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... smzy
-	@echo ... day_12/test3.obj
-	@echo ... day_12/test3.i
-	@echo ... day_12/test3.s
+	@echo ... day_20/test3.obj
+	@echo ... day_20/test3.i
+	@echo ... day_20/test3.s
 .PHONY : help
 
 
